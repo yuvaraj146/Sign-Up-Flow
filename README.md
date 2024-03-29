@@ -1,3 +1,3 @@
 # Sign-Up-Flow
 Figma link:-
-https://www.figma.com/file/LE7FL0b2RClAFW8fGrE6dC/RestaurantMenu?type=design&node-id=22%3A239&mode=design&t=27e3sQIcDo2eZwSX-1
+https://www.figma.com/file/Qk4FQUbB4mLHpK6IW51hxv/Mobile-sign-up-flow?type=design&node-id=0%3A1&mode=design&t=1cwTUdKJ2EKl71IO-1
